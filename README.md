@@ -12,7 +12,7 @@
 - 🔭 I’m currently looking for full-time **software engineer** role
 - 💻 Programming Languages: Java, Python, TypeScript, JavaScript, C++, C#, Java, Golang, Nodejs
 - 🌐 Web Technologies: Angular.js, Vue.js
-- 🔧 Machine Learngin & Tools: Tensorflow, Pytorch, Sklearn
+- 🔧 Machine Learning & Tools: Tensorflow, Pytorch, Sklearn
 - 📊 Databases: Microsoft SQL Server, MongoDB, ElasticSearch, Postgres , Redis
 - ☁️ Cloud Services & Others: AWS, REST API, Jenkins, Serverless, Object Oriented Design, System Design
 - 📫 Feel free to reach me out **singhsaurav538@gmail.com**
