@@ -36,7 +36,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nodejs,mongodb,elasticsearch,mysql,redis,postman,qt&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vue,nodejs,mongodb,elasticsearch,mysql,redis,postman&perline=14" />
   </a>
 </p>
 <p align="center">
