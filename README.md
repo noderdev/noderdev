@@ -9,7 +9,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently looking for full-time **software engineer** role
+- 🔭 I’m **software engineer** with 5+ years of experience.
 - 💻 Programming Languages: Java, Python, TypeScript, JavaScript, C++, C#, Java, Golang, Nodejs
 - 🌐 Web Technologies: Angular.js, Vue.js
 - 🔧 Machine Learning & Tools: Tensorflow, Pytorch, Sklearn
